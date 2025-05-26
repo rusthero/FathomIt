@@ -15,8 +15,9 @@ This tool was built with simplicity, clarity, and utility in mind — perfect fo
 ---
 
 ## Screenshots
-<img width="408" alt="FathomIt English" src="https://github.com/user-attachments/assets/6525262f-efbf-41f1-a560-f0bc6065abfe" />
-<img width="408" alt="FathomIt Turkish" src="https://github.com/user-attachments/assets/7d1e574d-e10c-44cc-84e0-68cc4bafbe77" />
+
+<img width="408" alt="FathomIt English Screenshot" src="https://github.com/user-attachments/assets/3b98c400-1119-4f78-bea6-4127e2285a2e" />
+<img width="408" alt="FathomIt Turkish Screenshot" src="https://github.com/user-attachments/assets/bd75ff45-f3e8-4e83-a41c-fb03893895c5" />
 
 ---
 
